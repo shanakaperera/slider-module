@@ -1,5 +1,5 @@
 {
-  "name": "bociancz/slider-module",
+  "name": "shanakaperera/slider-module",
   "type": "asgard-module",
   "description": "Slider module for AsgardCMS",
   "keywords": [
@@ -9,15 +9,15 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "David Cap",
-      "email": "david@bocian.cz",
+      "name": "Shanaka P",
+      "email": "shanakaperera08@gmail.com",
       "role": "Developer"
     }
   ],
   "support": {
-    "email": "info@bocian.cz",
-    "issues": "https://github.com/BocianCZ/slider-module/issues",
-    "source": "https://github.com/BocianCZ/slider-module"
+    "email": "shanakaperera08@gmail.com",
+    "issues": "https://github.com/shanakaperera/slider-module/issues",
+    "source": "https://github.com/shanakaperera/slider-module"
   },
   "require": {
     "php": ">=5.6",
